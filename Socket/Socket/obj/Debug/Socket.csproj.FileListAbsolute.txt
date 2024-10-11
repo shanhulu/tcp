@@ -1,0 +1,10 @@
+E:\AA学习\2024_10_11\通讯\Socket\Socket\bin\Debug\Socket.exe.config
+E:\AA学习\2024_10_11\通讯\Socket\Socket\bin\Debug\Socket.exe
+E:\AA学习\2024_10_11\通讯\Socket\Socket\bin\Debug\Socket.pdb
+E:\AA学习\2024_10_11\通讯\Socket\Socket\obj\Debug\Socket.csproj.AssemblyReference.cache
+E:\AA学习\2024_10_11\通讯\Socket\Socket\obj\Debug\Socket.Form1.resources
+E:\AA学习\2024_10_11\通讯\Socket\Socket\obj\Debug\Socket.Properties.Resources.resources
+E:\AA学习\2024_10_11\通讯\Socket\Socket\obj\Debug\Socket.csproj.GenerateResource.cache
+E:\AA学习\2024_10_11\通讯\Socket\Socket\obj\Debug\Socket.csproj.CoreCompileInputs.cache
+E:\AA学习\2024_10_11\通讯\Socket\Socket\obj\Debug\Socket.exe
+E:\AA学习\2024_10_11\通讯\Socket\Socket\obj\Debug\Socket.pdb
